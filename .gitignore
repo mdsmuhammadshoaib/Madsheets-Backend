@@ -1,0 +1,6 @@
+# Ignore backend dependencies and secrets
+backend/node_modules
+backend/.env
+
+# Ignore the Google Cloud key file
+backend/calendar-471817-af3b8f53f8da.json
